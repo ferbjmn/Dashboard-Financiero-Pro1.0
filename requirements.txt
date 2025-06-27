@@ -7,3 +7,4 @@ numpy==1.26.2
 python-dateutil==2.8.2
 requests==2.31.0
 plotly==5.18.0
+appdirs==1.4.4
